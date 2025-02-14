@@ -1,6 +1,6 @@
 {
     "bin": {"Web": "jdeploy-bundle/jdeploy.js"},
-    "author": "",
+    "author": "Tarunesh Sathish",
     "description": "Parent for JavaFX starter project",
     "main": "index.js",
     "preferGlobal": true,
@@ -16,9 +16,9 @@
                 "branch": "gh-pages",
                 "enabled": true
             },
-            "enabled": true
+            "enabled": false
         },
-        "jar": "target/Web-1.0.0.jar",
+        "jar": "out/artifacts/Web_jar/Web.jar",
         "javafx": false,
         "title": "Web"
     },
