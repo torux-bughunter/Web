@@ -11,6 +11,6 @@
     <version>1.0.0</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.main.class>com.github.toruxbughunter.web.Web</maven.compiler.main.class>
+        <maven.compiler.main.class>com.github.toruxbughunter.web.Runner</maven.compiler.main.class>
     </properties>
 </project>

@@ -1,4 +1,4 @@
 module com.github.toruxbughunter.web {
-    requires javafx.controls;
+    requires java.desktop;
     exports com.github.toruxbughunter.web;
 }
